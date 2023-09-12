@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils"
 //   isDarkMode: boolean;
 // }
 
-const isDarkMode = false;
+const isDarkMode = true;
 
 const Switch = React.forwardRef<
   React.ElementRef<typeof SwitchPrimitives.Root>,
